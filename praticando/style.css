@@ -1,0 +1,33 @@
+.cabecalho {
+    background: bisque;
+}
+
+.img-principal {
+    width: 100%;
+}
+
+.container-centro{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.painel-secundario {
+    margin: 20px;
+    width: 40%;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+
+    background: bisque
+}
+
+.titulo-secundario {
+    text-align: center;
+}
+
+.painel-final {
+    text-align: center;
+}
